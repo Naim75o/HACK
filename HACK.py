@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("HACK").Subscraption()
+    __import__("try").Subscraption()
 except Exception as e:
     exit(str(e))
  
